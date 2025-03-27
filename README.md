@@ -72,3 +72,11 @@ https://delbaze.notion.site/Java-Spring-Hibernate-Gradle-9394a3f261354e50b18591a
   créer des fenêtre graphiques)**,**JComponent**, etc.
 - j**ava.awt:** Ce package contient des classes pour la création d'interfaces graphiques, par exemple :**Graphics**,*
   *Color**, etc.
+
+### Collections
+
+https://delbaze.notion.site/Java-Spring-Hibernate-Gradle-9394a3f261354e50b18591a7de1a7079#c0dbe6cd467b45b68bbec091a761c403
+
+### boucles
+
+https://delbaze.notion.site/Java-Spring-Hibernate-Gradle-9394a3f261354e50b18591a7de1a7079#778bc8d6c21f42048bacbae6ecf40797
